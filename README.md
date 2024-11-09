@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Indhuthamarai/problem_solving/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2580-circular-sentence](https://github.com/Indhuthamarai/problem_solving/tree/master/2580-circular-sentence) |
 ## Bit Manipulation
 |  |
 | ------- |
