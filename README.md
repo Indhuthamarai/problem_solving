@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Indhuthamarai/problem_solving/tree/master/0001-two-sum) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,5 +18,10 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Indhuthamarai/problem_solving/tree/master/3394-minimum-array-end) |
+## Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
