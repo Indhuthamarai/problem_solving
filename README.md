@@ -18,6 +18,7 @@
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Indhuthamarai/problem_solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/Indhuthamarai/problem_solving/tree/master/2580-circular-sentence) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Indhuthamarai/problem_solving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Indhuthamarai/problem_solving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
