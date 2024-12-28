@@ -20,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0020-valid-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Indhuthamarai/problem_solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/Indhuthamarai/problem_solving/tree/master/2580-circular-sentence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Indhuthamarai/problem_solving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuthamarai/problem_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
