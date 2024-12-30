@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Indhuthamarai/problem_solving/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/Indhuthamarai/problem_solving/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Indhuthamarai/problem_solving/tree/master/0075-sort-colors) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Indhuthamarai/problem_solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -63,4 +64,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Indhuthamarai/problem_solving/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Indhuthamarai/problem_solving/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
