@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Indhuthamarai/problem_solving/tree/master/0048-rotate-image) |
+| [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
 | [2645-pass-the-pillow](https://github.com/Indhuthamarai/problem_solving/tree/master/2645-pass-the-pillow) |
 ## Matrix
 |  |
@@ -85,5 +86,14 @@
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0516-longest-palindromic-subsequence) |
+| [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/1250-longest-common-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
