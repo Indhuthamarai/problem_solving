@@ -1,6 +1,6 @@
 class Solution {
     public int solve(int i,int j,int[][] grid,int[][] dp,int m,int n){
-        if(i>m-1 || j>n-1){
+        if(i>m-1 || j>n-1 || grid[i][j]==1){
             return 0;
         }
         if(i==m-1 && j==n-1 && grid[i][j]!=1){
@@ -8,10 +8,6 @@ class Solution {
         }
         if(dp[i][j]!=-1){
             return dp[i][j];
-        }
-        if(grid[i][j]==1){
-            // dp[i][j]=-1;
-            return 0;
         }
         return dp[i][j]=solve(i+1,j,grid,dp,m,n)+solve(i,j+1,grid,dp,m,n);
     }
