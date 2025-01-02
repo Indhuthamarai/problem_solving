@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Indhuthamarai/problem_solving/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Indhuthamarai/problem_solving/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
 | [2645-pass-the-pillow](https://github.com/Indhuthamarai/problem_solving/tree/master/2645-pass-the-pillow) |
 ## Matrix
@@ -88,6 +89,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Indhuthamarai/problem_solving/tree/master/0062-unique-paths) |
 | [0516-longest-palindromic-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/1250-longest-common-subsequence) |
@@ -105,4 +107,8 @@
 | [0039-combination-sum](https://github.com/Indhuthamarai/problem_solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/Indhuthamarai/problem_solving/tree/master/0216-combination-sum-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Indhuthamarai/problem_solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
