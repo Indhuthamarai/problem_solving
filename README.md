@@ -80,6 +80,7 @@
 | [0048-rotate-image](https://github.com/Indhuthamarai/problem_solving/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Indhuthamarai/problem_solving/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1236-n-th-tribonacci-number) |
 | [2645-pass-the-pillow](https://github.com/Indhuthamarai/problem_solving/tree/master/2645-pass-the-pillow) |
 ## Matrix
 |  |
@@ -97,6 +98,7 @@
 | [0063-unique-paths-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0063-unique-paths-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/1250-longest-common-subsequence) |
 ## Recursion
 |  |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1236-n-th-tribonacci-number) |
 ## Backtracking
 |  |
 | ------- |
