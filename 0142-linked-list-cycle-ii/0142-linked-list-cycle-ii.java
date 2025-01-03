@@ -18,16 +18,15 @@ public class Solution {
             fast=fast.next.next;
             if(slow==fast){
                 slow=head;
-                break;
-                
-            }
-        }
-        if(fast!=null && fast.next!=null){
+                if(fast!=null && fast.next!=null){
             while(fast!=slow){
                     slow=slow.next;
                     fast=fast.next;
                 }
                 return slow;
+        }
+                
+            }
         }
         return null;
     }
