@@ -42,6 +42,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Indhuthamarai/problem_solving/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Indhuthamarai/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Indhuthamarai/problem_solving/tree/master/2580-circular-sentence) |
@@ -145,6 +146,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Indhuthamarai/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Indhuthamarai/problem_solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/2465-shifting-letters-ii) |
