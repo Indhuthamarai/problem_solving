@@ -196,6 +196,7 @@
 | [0226-invert-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Indhuthamarai/problem_solving/tree/master/0904-leaf-similar-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Indhuthamarai/problem_solving/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [0226-invert-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Indhuthamarai/problem_solving/tree/master/0904-leaf-similar-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Indhuthamarai/problem_solving/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [0226-invert-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Indhuthamarai/problem_solving/tree/master/0904-leaf-similar-trees) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Indhuthamarai/problem_solving/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
