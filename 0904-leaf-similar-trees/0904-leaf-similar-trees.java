@@ -35,10 +35,6 @@ class Solution {
         }
         leaves(p,res);
         leaves(q,res1);
-        if(res.equals(res1)){
-            return true;
-        }
-        return false;
-        
+        return res.equals(res1);
     }
 }
