@@ -51,6 +51,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Indhuthamarai/problem_solving/tree/master/0222-count-complete-tree-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Indhuthamarai/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Indhuthamarai/problem_solving/tree/master/3394-minimum-array-end) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Indhuthamarai/problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/Indhuthamarai/problem_solving/tree/master/0222-count-complete-tree-nodes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Indhuthamarai/problem_solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuthamarai/problem_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -184,6 +186,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Indhuthamarai/problem_solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Indhuthamarai/problem_solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Indhuthamarai/problem_solving/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -194,4 +197,5 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Indhuthamarai/problem_solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Indhuthamarai/problem_solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Indhuthamarai/problem_solving/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
