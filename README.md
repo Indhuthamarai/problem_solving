@@ -14,6 +14,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Indhuthamarai/problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/Indhuthamarai/problem_solving/tree/master/0216-combination-sum-iii) |
 | [0496-next-greater-element-i](https://github.com/Indhuthamarai/problem_solving/tree/master/0496-next-greater-element-i) |
+| [0792-binary-search](https://github.com/Indhuthamarai/problem_solving/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Indhuthamarai/problem_solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2358-number-of-ways-to-split-array](https://github.com/Indhuthamarai/problem_solving/tree/master/2358-number-of-ways-to-split-array) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Indhuthamarai/problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Indhuthamarai/problem_solving/tree/master/0222-count-complete-tree-nodes) |
+| [0792-binary-search](https://github.com/Indhuthamarai/problem_solving/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Indhuthamarai/problem_solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuthamarai/problem_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
