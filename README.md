@@ -195,6 +195,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Indhuthamarai/problem_solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0572-subtree-of-another-tree) |
+| [0904-leaf-similar-trees](https://github.com/Indhuthamarai/problem_solving/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Indhuthamarai/problem_solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0572-subtree-of-another-tree) |
+| [0904-leaf-similar-trees](https://github.com/Indhuthamarai/problem_solving/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Indhuthamarai/problem_solving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0572-subtree-of-another-tree) |
+| [0904-leaf-similar-trees](https://github.com/Indhuthamarai/problem_solving/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
