@@ -20,6 +20,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Indhuthamarai/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Indhuthamarai/problem_solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Indhuthamarai/problem_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Indhuthamarai/problem_solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Indhuthamarai/problem_solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/2465-shifting-letters-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuthamarai/problem_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -52,6 +53,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Indhuthamarai/problem_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Indhuthamarai/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Indhuthamarai/problem_solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Indhuthamarai/problem_solving/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Indhuthamarai/problem_solving/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -250,6 +252,7 @@
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/Indhuthamarai/problem_solving/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Indhuthamarai/problem_solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Indhuthamarai/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
