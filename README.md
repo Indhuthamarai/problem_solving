@@ -41,6 +41,7 @@
 | [0496-next-greater-element-i](https://github.com/Indhuthamarai/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/Indhuthamarai/problem_solving/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Indhuthamarai/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuthamarai/problem_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String
@@ -52,6 +53,7 @@
 | [0952-word-subsets](https://github.com/Indhuthamarai/problem_solving/tree/master/0952-word-subsets) |
 | [1250-longest-common-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Indhuthamarai/problem_solving/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Indhuthamarai/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Indhuthamarai/problem_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -103,6 +105,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuthamarai/problem_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Stack
 |  |
@@ -274,4 +277,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Indhuthamarai/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Counting
+|  |
+| ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 <!---LeetCode Topics End-->
