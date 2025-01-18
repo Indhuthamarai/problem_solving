@@ -20,6 +20,7 @@
 | [0792-binary-search](https://github.com/Indhuthamarai/problem_solving/tree/master/0792-binary-search) |
 | [0952-word-subsets](https://github.com/Indhuthamarai/problem_solving/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Indhuthamarai/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Indhuthamarai/problem_solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Indhuthamarai/problem_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Indhuthamarai/problem_solving/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0063-unique-paths-ii) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Indhuthamarai/problem_solving/tree/master/0023-merge-k-sorted-lists) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -277,6 +280,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Indhuthamarai/problem_solving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0226-invert-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -310,4 +314,12 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Indhuthamarai/problem_solving/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
