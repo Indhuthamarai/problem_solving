@@ -1,7 +1,7 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int n=piles.length;
-        int l=1,hi=Arrays.stream(piles).max().getAsInt();
+        int l=1,hi=Integer.MAX_VALUE;
         while(l<hi){
             int sum=0;
             int m=l+(hi-l)/2;
