@@ -15,6 +15,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Indhuthamarai/problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/Indhuthamarai/problem_solving/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Indhuthamarai/problem_solving/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/Indhuthamarai/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Indhuthamarai/problem_solving/tree/master/0605-can-place-flowers) |
@@ -132,6 +133,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Indhuthamarai/problem_solving/tree/master/0605-can-place-flowers) |
 | [1502-construct-k-palindrome-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Indhuthamarai/problem_solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
