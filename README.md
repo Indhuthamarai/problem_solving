@@ -26,6 +26,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Indhuthamarai/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Indhuthamarai/problem_solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1876-map-of-highest-peak](https://github.com/Indhuthamarai/problem_solving/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Indhuthamarai/problem_solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Indhuthamarai/problem_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/Indhuthamarai/problem_solving/tree/master/2048-build-array-from-permutation) |
@@ -167,6 +168,7 @@
 | [0063-unique-paths-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0063-unique-paths-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Indhuthamarai/problem_solving/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Indhuthamarai/problem_solving/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Indhuthamarai/problem_solving/tree/master/2685-first-completely-painted-row-or-column) |
 ## Simulation
@@ -298,6 +300,7 @@
 | [0226-invert-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/Indhuthamarai/problem_solving/tree/master/1876-map-of-highest-peak) |
 ## String Matching
 |  |
 | ------- |
