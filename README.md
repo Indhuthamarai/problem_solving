@@ -22,6 +22,7 @@
 | [0792-binary-search](https://github.com/Indhuthamarai/problem_solving/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Indhuthamarai/problem_solving/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Indhuthamarai/problem_solving/tree/master/0952-word-subsets) |
+| [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Indhuthamarai/problem_solving/tree/master/1524-string-matching-in-an-array) |
@@ -167,6 +168,7 @@
 | [0048-rotate-image](https://github.com/Indhuthamarai/problem_solving/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0063-unique-paths-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Indhuthamarai/problem_solving/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/Indhuthamarai/problem_solving/tree/master/2145-grid-game) |
@@ -274,6 +276,7 @@
 | [0226-invert-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0572-subtree-of-another-tree) |
 | [0904-leaf-similar-trees](https://github.com/Indhuthamarai/problem_solving/tree/master/0904-leaf-similar-trees) |
+| [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Indhuthamarai/problem_solving/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
@@ -299,6 +302,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Indhuthamarai/problem_solving/tree/master/1876-map-of-highest-peak) |
 ## String Matching
@@ -317,6 +321,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0128-longest-consecutive-sequence) |
+| [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 ## Trie
 |  |
 | ------- |
@@ -328,6 +333,7 @@
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Indhuthamarai/problem_solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
