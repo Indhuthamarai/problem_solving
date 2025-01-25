@@ -41,6 +41,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Indhuthamarai/problem_solving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Indhuthamarai/problem_solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Indhuthamarai/problem_solving/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Indhuthamarai/problem_solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Indhuthamarai/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Indhuthamarai/problem_solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -134,6 +135,7 @@
 | [0075-sort-colors](https://github.com/Indhuthamarai/problem_solving/tree/master/0075-sort-colors) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuthamarai/problem_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Indhuthamarai/problem_solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -325,6 +327,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Indhuthamarai/problem_solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Trie
 |  |
 | ------- |
