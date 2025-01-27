@@ -284,6 +284,7 @@
 | [0904-leaf-similar-trees](https://github.com/Indhuthamarai/problem_solving/tree/master/0904-leaf-similar-trees) |
 | [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Indhuthamarai/problem_solving/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1558-course-schedule-iv](https://github.com/Indhuthamarai/problem_solving/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Indhuthamarai/problem_solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Binary Tree
 |  |
@@ -312,6 +313,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Indhuthamarai/problem_solving/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/Indhuthamarai/problem_solving/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Indhuthamarai/problem_solving/tree/master/1876-map-of-highest-peak) |
 ## String Matching
 |  |
@@ -354,6 +356,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Indhuthamarai/problem_solving/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/Indhuthamarai/problem_solving/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Indhuthamarai/problem_solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Shortest Path
 |  |
@@ -363,5 +366,6 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Indhuthamarai/problem_solving/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/Indhuthamarai/problem_solving/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Indhuthamarai/problem_solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
