@@ -282,6 +282,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Indhuthamarai/problem_solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/Indhuthamarai/problem_solving/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Indhuthamarai/problem_solving/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/Indhuthamarai/problem_solving/tree/master/0904-leaf-similar-trees) |
 | [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
@@ -313,6 +314,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/Indhuthamarai/problem_solving/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Indhuthamarai/problem_solving/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -335,6 +337,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/Indhuthamarai/problem_solving/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Indhuthamarai/problem_solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -359,6 +362,7 @@
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Indhuthamarai/problem_solving/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Indhuthamarai/problem_solving/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Indhuthamarai/problem_solving/tree/master/1558-course-schedule-iv) |
