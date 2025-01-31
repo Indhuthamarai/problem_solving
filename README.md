@@ -199,6 +199,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Indhuthamarai/problem_solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Indhuthamarai/problem_solving/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Indhuthamarai/problem_solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Indhuthamarai/problem_solving/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -234,6 +235,7 @@
 | [0002-add-two-numbers](https://github.com/Indhuthamarai/problem_solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Indhuthamarai/problem_solving/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Indhuthamarai/problem_solving/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Indhuthamarai/problem_solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Indhuthamarai/problem_solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Indhuthamarai/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
