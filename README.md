@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Indhuthamarai/problem_solving/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Indhuthamarai/problem_solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Indhuthamarai/problem_solving/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Indhuthamarai/problem_solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Indhuthamarai/problem_solving/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Indhuthamarai/problem_solving/tree/master/0051-n-queens) |
@@ -115,6 +116,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Indhuthamarai/problem_solving/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Indhuthamarai/problem_solving/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Indhuthamarai/problem_solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0142-linked-list-cycle-ii) |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Indhuthamarai/problem_solving/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Indhuthamarai/problem_solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Indhuthamarai/problem_solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Indhuthamarai/problem_solving/tree/master/0145-binary-tree-postorder-traversal) |
@@ -193,6 +196,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Indhuthamarai/problem_solving/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Indhuthamarai/problem_solving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/Indhuthamarai/problem_solving/tree/master/0198-house-robber) |
@@ -250,6 +254,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Indhuthamarai/problem_solving/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Indhuthamarai/problem_solving/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
