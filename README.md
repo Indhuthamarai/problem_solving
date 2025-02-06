@@ -74,6 +74,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Indhuthamarai/problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Indhuthamarai/problem_solving/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Indhuthamarai/problem_solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Indhuthamarai/problem_solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Indhuthamarai/problem_solving/tree/master/0058-length-of-last-word) |
@@ -363,6 +364,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Indhuthamarai/problem_solving/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Indhuthamarai/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
