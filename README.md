@@ -80,6 +80,7 @@
 | [0058-length-of-last-word](https://github.com/Indhuthamarai/problem_solving/tree/master/0058-length-of-last-word) |
 | [0443-string-compression](https://github.com/Indhuthamarai/problem_solving/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0516-longest-palindromic-subsequence) |
+| [0742-to-lower-case](https://github.com/Indhuthamarai/problem_solving/tree/master/0742-to-lower-case) |
 | [0952-word-subsets](https://github.com/Indhuthamarai/problem_solving/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/1250-longest-common-subsequence) |
