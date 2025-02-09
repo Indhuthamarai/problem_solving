@@ -60,6 +60,7 @@
 | [0141-linked-list-cycle](https://github.com/Indhuthamarai/problem_solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Indhuthamarai/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/Indhuthamarai/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/Indhuthamarai/problem_solving/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -78,6 +79,7 @@
 | [0020-valid-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Indhuthamarai/problem_solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Indhuthamarai/problem_solving/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/Indhuthamarai/problem_solving/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0742-to-lower-case](https://github.com/Indhuthamarai/problem_solving/tree/master/0742-to-lower-case) |
