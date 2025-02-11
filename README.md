@@ -21,6 +21,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0334-increasing-triplet-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/Indhuthamarai/problem_solving/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Indhuthamarai/problem_solving/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/Indhuthamarai/problem_solving/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/Indhuthamarai/problem_solving/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Indhuthamarai/problem_solving/tree/master/0854-making-a-large-island) |
@@ -188,6 +189,7 @@
 | [0048-rotate-image](https://github.com/Indhuthamarai/problem_solving/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0063-unique-paths-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/Indhuthamarai/problem_solving/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/Indhuthamarai/problem_solving/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -198,6 +200,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Indhuthamarai/problem_solving/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Indhuthamarai/problem_solving/tree/master/2048-build-array-from-permutation) |
 | [2645-pass-the-pillow](https://github.com/Indhuthamarai/problem_solving/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
