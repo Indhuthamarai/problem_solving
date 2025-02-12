@@ -92,6 +92,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Indhuthamarai/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1812-reformat-phone-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1812-reformat-phone-number) |
 | [1894-merge-strings-alternately](https://github.com/Indhuthamarai/problem_solving/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Indhuthamarai/problem_solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Indhuthamarai/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
