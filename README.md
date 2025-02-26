@@ -180,6 +180,7 @@
 | [0050-powx-n](https://github.com/Indhuthamarai/problem_solving/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Indhuthamarai/problem_solving/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/Indhuthamarai/problem_solving/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1236-n-th-tribonacci-number) |
@@ -201,6 +202,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Indhuthamarai/problem_solving/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/Indhuthamarai/problem_solving/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Indhuthamarai/problem_solving/tree/master/2048-build-array-from-permutation) |
 | [2645-pass-the-pillow](https://github.com/Indhuthamarai/problem_solving/tree/master/2645-pass-the-pillow) |
@@ -411,4 +413,8 @@
 | [0820-find-eventual-safe-states](https://github.com/Indhuthamarai/problem_solving/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Indhuthamarai/problem_solving/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Indhuthamarai/problem_solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Indhuthamarai/problem_solving/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
