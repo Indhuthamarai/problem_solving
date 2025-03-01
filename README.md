@@ -41,6 +41,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Indhuthamarai/problem_solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Indhuthamarai/problem_solving/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/Indhuthamarai/problem_solving/tree/master/2551-apply-operations-to-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuthamarai/problem_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Indhuthamarai/problem_solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Indhuthamarai/problem_solving/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -134,6 +135,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/Indhuthamarai/problem_solving/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Indhuthamarai/problem_solving/tree/master/1894-merge-strings-alternately) |
+| [2551-apply-operations-to-an-array](https://github.com/Indhuthamarai/problem_solving/tree/master/2551-apply-operations-to-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Indhuthamarai/problem_solving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
@@ -205,6 +207,7 @@
 | [0258-add-digits](https://github.com/Indhuthamarai/problem_solving/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/Indhuthamarai/problem_solving/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Indhuthamarai/problem_solving/tree/master/2048-build-array-from-permutation) |
+| [2551-apply-operations-to-an-array](https://github.com/Indhuthamarai/problem_solving/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/Indhuthamarai/problem_solving/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
