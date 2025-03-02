@@ -19,6 +19,7 @@
 | [0216-combination-sum-iii](https://github.com/Indhuthamarai/problem_solving/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/Indhuthamarai/problem_solving/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0334-increasing-triplet-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/Indhuthamarai/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Indhuthamarai/problem_solving/tree/master/0498-diagonal-traverse) |
@@ -63,6 +64,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Indhuthamarai/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/0205-isomorphic-strings) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Indhuthamarai/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/Indhuthamarai/problem_solving/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -131,6 +133,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Indhuthamarai/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Indhuthamarai/problem_solving/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Indhuthamarai/problem_solving/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Indhuthamarai/problem_solving/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -142,6 +145,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Indhuthamarai/problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Indhuthamarai/problem_solving/tree/master/0222-count-complete-tree-nodes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Indhuthamarai/problem_solving/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Indhuthamarai/problem_solving/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -152,6 +156,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Indhuthamarai/problem_solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Indhuthamarai/problem_solving/tree/master/0075-sort-colors) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuthamarai/problem_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Indhuthamarai/problem_solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
