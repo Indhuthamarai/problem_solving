@@ -118,6 +118,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/Indhuthamarai/problem_solving/tree/master/2792-neighboring-bitwise-xor) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Indhuthamarai/problem_solving/tree/master/3394-minimum-array-end) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Indhuthamarai/problem_solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1236-n-th-tribonacci-number) |
 | [2645-pass-the-pillow](https://github.com/Indhuthamarai/problem_solving/tree/master/2645-pass-the-pillow) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Indhuthamarai/problem_solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [2048-build-array-from-permutation](https://github.com/Indhuthamarai/problem_solving/tree/master/2048-build-array-from-permutation) |
 | [2551-apply-operations-to-an-array](https://github.com/Indhuthamarai/problem_solving/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/Indhuthamarai/problem_solving/tree/master/2645-pass-the-pillow) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Indhuthamarai/problem_solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -235,6 +238,7 @@
 | [0050-powx-n](https://github.com/Indhuthamarai/problem_solving/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Indhuthamarai/problem_solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
