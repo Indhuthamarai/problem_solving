@@ -65,6 +65,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Indhuthamarai/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Indhuthamarai/problem_solving/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Indhuthamarai/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0952-word-subsets](https://github.com/Indhuthamarai/problem_solving/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -85,6 +86,7 @@
 | [0058-length-of-last-word](https://github.com/Indhuthamarai/problem_solving/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
+| [0383-ransom-note](https://github.com/Indhuthamarai/problem_solving/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/Indhuthamarai/problem_solving/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0742-to-lower-case](https://github.com/Indhuthamarai/problem_solving/tree/master/0742-to-lower-case) |
@@ -399,6 +401,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Indhuthamarai/problem_solving/tree/master/0383-ransom-note) |
 | [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Indhuthamarai/problem_solving/tree/master/3455-minimum-length-of-string-after-operations) |
