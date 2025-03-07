@@ -27,6 +27,7 @@
 | [0792-binary-search](https://github.com/Indhuthamarai/problem_solving/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Indhuthamarai/problem_solving/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/Indhuthamarai/problem_solving/tree/master/0907-koko-eating-bananas) |
+| [0941-sort-array-by-parity](https://github.com/Indhuthamarai/problem_solving/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/Indhuthamarai/problem_solving/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -139,6 +140,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/Indhuthamarai/problem_solving/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Indhuthamarai/problem_solving/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/Indhuthamarai/problem_solving/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Indhuthamarai/problem_solving/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/Indhuthamarai/problem_solving/tree/master/2551-apply-operations-to-an-array) |
@@ -160,6 +162,7 @@
 | [0049-group-anagrams](https://github.com/Indhuthamarai/problem_solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Indhuthamarai/problem_solving/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0941-sort-array-by-parity](https://github.com/Indhuthamarai/problem_solving/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuthamarai/problem_solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Indhuthamarai/problem_solving/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
