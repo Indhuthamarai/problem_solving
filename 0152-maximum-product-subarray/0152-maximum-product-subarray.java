@@ -1,13 +1,20 @@
 class Solution {
     public int maxProduct(int[] nums) {
         int l=nums.length;
-        int max=nums[0];
+        int left=1;
+        int right=1;
+        int max=Integer.MIN_VALUE;
         for(int i=0;i<l;i++){
-            int mul=1;
-            for(int j=i;j<l;j++){
-                mul*=nums[j];
-                max=Math.max(max,mul);
+            if(left==0){
+                left=1;
             }
+            if(right==0){
+                right=1;
+            }
+            left*=nums[i];
+            int j=l-1-i;
+            right*=nums[j];
+            max=Math.max(max,Math.max(left,right));
         }
         return max;
     }
