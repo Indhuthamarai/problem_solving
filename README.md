@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Indhuthamarai/problem_solving/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Indhuthamarai/problem_solving/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/Indhuthamarai/problem_solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Indhuthamarai/problem_solving/tree/master/0042-trapping-rain-water) |
@@ -135,6 +136,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Indhuthamarai/problem_solving/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Indhuthamarai/problem_solving/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Indhuthamarai/problem_solving/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Indhuthamarai/problem_solving/tree/master/0141-linked-list-cycle) |
@@ -164,6 +166,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Indhuthamarai/problem_solving/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Indhuthamarai/problem_solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Indhuthamarai/problem_solving/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
