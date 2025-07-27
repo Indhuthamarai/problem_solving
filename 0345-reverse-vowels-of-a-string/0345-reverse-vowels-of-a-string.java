@@ -1,6 +1,6 @@
 class Solution {
     public String reverseVowels(String s) {
-        StringBuilder Reversed=new StringBuilder();
+        StringBuilder Reversed=new StringBuilder(s);
         StringBuilder a=new StringBuilder();
         for(char c:s.toCharArray())
         {
@@ -16,11 +16,9 @@ class Solution {
             char lower=Character.toLowerCase(s.charAt(i));
             if(lower=='a'||lower=='e'||lower=='i'||lower=='o'||lower=='u')
             {
-                Reversed.append(a.charAt(j--));
+                Reversed.setCharAt(i,a.charAt(j--));
             }
-            else{
-                Reversed.append(s.charAt(i));
-            }
+            
         }
         return Reversed.toString();
     }
