@@ -5,15 +5,16 @@ class Solution {
     }
     public String reverseVowels(String s) {
         int l=0,r=s.length()-1;
-        StringBuilder reversed=new StringBuilder(s);
+        char[] str=s.toCharArray();
         while(l<r)
         {
-            char lowerL=Character.toLowerCase(s.charAt(l));
-            char lowerR=Character.toLowerCase(s.charAt(r));
+            char lowerL=Character.toLowerCase(str[l]);
+            char lowerR=Character.toLowerCase(str[r]);
             if(isVowel(lowerL)&& isVowel(lowerR))
             {
-                reversed.setCharAt(l,s.charAt(r));
-                reversed.setCharAt(r,s.charAt(l));
+                char temp=str[l];
+                str[l]=str[r];
+                str[r]=temp;
                 l++;
                 r--;
             }
@@ -32,6 +33,6 @@ class Solution {
                 r--;
             }
         }
-        return reversed.toString();
+        return new String(str);
     }
 }
