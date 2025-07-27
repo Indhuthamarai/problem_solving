@@ -1,7 +1,7 @@
 class Solution {
     public String reverseVowels(String s) {
         int j=0;
-        String Reversed="";
+        StringBuilder Reversed=new StringBuilder();
         ArrayList<Character> a=new ArrayList<>();
         for(char c:s.toCharArray())
         {
@@ -17,13 +17,13 @@ class Solution {
             char lower=Character.toLowerCase(s.charAt(i));
             if(lower=='a'||lower=='e'||lower=='i'||lower=='o'||lower=='u')
             {
-                Reversed+=a.get(j);
+                Reversed.append(a.get(j));
                 j++;
             }
             else{
-                Reversed+=s.charAt(i);
+                Reversed.append(s.charAt(i));
             }
         }
-        return Reversed;
+        return Reversed.toString();
     }
 }
