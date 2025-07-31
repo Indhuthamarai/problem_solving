@@ -96,6 +96,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Indhuthamarai/problem_solving/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Indhuthamarai/problem_solving/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0742-to-lower-case](https://github.com/Indhuthamarai/problem_solving/tree/master/0742-to-lower-case) |
@@ -199,6 +200,7 @@
 | [0143-reorder-list](https://github.com/Indhuthamarai/problem_solving/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Indhuthamarai/problem_solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Indhuthamarai/problem_solving/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Indhuthamarai/problem_solving/tree/master/0496-next-greater-element-i) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Indhuthamarai/problem_solving/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Math
@@ -262,6 +264,7 @@
 | [0050-powx-n](https://github.com/Indhuthamarai/problem_solving/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Indhuthamarai/problem_solving/tree/master/0143-reorder-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
+| [0394-decode-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Indhuthamarai/problem_solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
