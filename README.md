@@ -89,6 +89,7 @@
 | [0013-roman-to-integer](https://github.com/Indhuthamarai/problem_solving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Indhuthamarai/problem_solving/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Indhuthamarai/problem_solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Indhuthamarai/problem_solving/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0151-reverse-words-in-a-string) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Indhuthamarai/problem_solving/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Indhuthamarai/problem_solving/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Indhuthamarai/problem_solving/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Indhuthamarai/problem_solving/tree/master/0141-linked-list-cycle) |
@@ -397,6 +399,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Indhuthamarai/problem_solving/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/Indhuthamarai/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Indhuthamarai/problem_solving/tree/master/2292-counting-words-with-a-given-prefix) |
