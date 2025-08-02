@@ -9,7 +9,7 @@ class Solution {
         for(i=0;i<=l1-l2;i++)
         {
            j=0;
-           while(j<l2 && i<l1 && haystack.charAt(i+j)==needle.charAt(j))
+           while(j<l2 && haystack.charAt(i+j)==needle.charAt(j))
            {
              j++;
            }
