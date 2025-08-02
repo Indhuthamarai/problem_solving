@@ -92,6 +92,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Indhuthamarai/problem_solving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Indhuthamarai/problem_solving/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Indhuthamarai/problem_solving/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
@@ -124,6 +125,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Indhuthamarai/problem_solving/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Indhuthamarai/problem_solving/tree/master/0222-count-complete-tree-nodes) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Indhuthamarai/problem_solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Indhuthamarai/problem_solving/tree/master/2509-minimize-xor) |
@@ -213,6 +215,7 @@
 | [0048-rotate-image](https://github.com/Indhuthamarai/problem_solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Indhuthamarai/problem_solving/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Indhuthamarai/problem_solving/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Indhuthamarai/problem_solving/tree/master/0067-add-binary) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Indhuthamarai/problem_solving/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
@@ -238,6 +241,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Indhuthamarai/problem_solving/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Indhuthamarai/problem_solving/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/Indhuthamarai/problem_solving/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Indhuthamarai/problem_solving/tree/master/2048-build-array-from-permutation) |
