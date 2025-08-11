@@ -95,6 +95,7 @@
 | [0067-add-binary](https://github.com/Indhuthamarai/problem_solving/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Indhuthamarai/problem_solving/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Indhuthamarai/problem_solving/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0345-reverse-vowels-of-a-string) |
@@ -218,6 +219,7 @@
 | [0062-unique-paths](https://github.com/Indhuthamarai/problem_solving/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Indhuthamarai/problem_solving/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Indhuthamarai/problem_solving/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Indhuthamarai/problem_solving/tree/master/0171-excel-sheet-column-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Indhuthamarai/problem_solving/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
