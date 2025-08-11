@@ -6,6 +6,7 @@ class Solution {
         {
             return (int)(c[0]-'A'+1);
         }
+        System.out.println(res);
         for(int i=0;i<c.length;i++)
         {
             res=(res*26)+(int)(c[i]-'A'+1);
