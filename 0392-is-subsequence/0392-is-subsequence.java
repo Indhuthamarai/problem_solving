@@ -10,19 +10,10 @@ class Solution {
         {
             if(s.charAt(i)==t.charAt(j))
             {
-                c++;
                 i++;
-                j++;
             }
-            else
-            {
-                j++;
-            }
+            j++;
         }
-        if(c==l1)
-        {
-            return true;
-        }
-        return false;
+        return i==l1;
     }
 }
