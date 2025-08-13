@@ -100,6 +100,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Indhuthamarai/problem_solving/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Indhuthamarai/problem_solving/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0516-longest-palindromic-subsequence) |
@@ -158,6 +159,7 @@
 | [0283-move-zeroes](https://github.com/Indhuthamarai/problem_solving/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Indhuthamarai/problem_solving/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Indhuthamarai/problem_solving/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Indhuthamarai/problem_solving/tree/master/0941-sort-array-by-parity) |
@@ -261,6 +263,7 @@
 | [0152-maximum-product-subarray](https://github.com/Indhuthamarai/problem_solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Indhuthamarai/problem_solving/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuthamarai/problem_solving/tree/master/0241-different-ways-to-add-parentheses) |
+| [0392-is-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Indhuthamarai/problem_solving/tree/master/1236-n-th-tribonacci-number) |
