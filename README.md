@@ -31,6 +31,7 @@
 | [0907-koko-eating-bananas](https://github.com/Indhuthamarai/problem_solving/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Indhuthamarai/problem_solving/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/Indhuthamarai/problem_solving/tree/master/0952-word-subsets) |
+| [1036-rotting-oranges](https://github.com/Indhuthamarai/problem_solving/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Indhuthamarai/problem_solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuthamarai/problem_solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -238,6 +239,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Indhuthamarai/problem_solving/tree/master/0498-diagonal-traverse) |
 | [0854-making-a-large-island](https://github.com/Indhuthamarai/problem_solving/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/Indhuthamarai/problem_solving/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Indhuthamarai/problem_solving/tree/master/1876-map-of-highest-peak) |
@@ -401,6 +403,7 @@
 | [0684-redundant-connection](https://github.com/Indhuthamarai/problem_solving/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Indhuthamarai/problem_solving/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Indhuthamarai/problem_solving/tree/master/0854-making-a-large-island) |
+| [1036-rotting-oranges](https://github.com/Indhuthamarai/problem_solving/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Indhuthamarai/problem_solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Indhuthamarai/problem_solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Indhuthamarai/problem_solving/tree/master/1558-course-schedule-iv) |
