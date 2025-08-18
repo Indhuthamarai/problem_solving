@@ -104,6 +104,7 @@
 | [0392-is-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Indhuthamarai/problem_solving/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Indhuthamarai/problem_solving/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0742-to-lower-case](https://github.com/Indhuthamarai/problem_solving/tree/master/0742-to-lower-case) |
