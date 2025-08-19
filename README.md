@@ -153,6 +153,7 @@
 | [0016-3sum-closest](https://github.com/Indhuthamarai/problem_solving/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Indhuthamarai/problem_solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Indhuthamarai/problem_solving/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Indhuthamarai/problem_solving/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Indhuthamarai/problem_solving/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Indhuthamarai/problem_solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0142-linked-list-cycle-ii) |
@@ -321,6 +322,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Indhuthamarai/problem_solving/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Indhuthamarai/problem_solving/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Indhuthamarai/problem_solving/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Indhuthamarai/problem_solving/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Indhuthamarai/problem_solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Indhuthamarai/problem_solving/tree/master/0143-reorder-list) |
