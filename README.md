@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/Indhuthamarai/problem_solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Indhuthamarai/problem_solving/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Indhuthamarai/problem_solving/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Indhuthamarai/problem_solving/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Indhuthamarai/problem_solving/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Indhuthamarai/problem_solving/tree/master/0128-longest-consecutive-sequence) |
@@ -265,6 +266,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Indhuthamarai/problem_solving/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Indhuthamarai/problem_solving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Indhuthamarai/problem_solving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Indhuthamarai/problem_solving/tree/master/0063-unique-paths-ii) |
 | [0152-maximum-product-subarray](https://github.com/Indhuthamarai/problem_solving/tree/master/0152-maximum-product-subarray) |
@@ -338,6 +340,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Indhuthamarai/problem_solving/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Indhuthamarai/problem_solving/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
