@@ -494,4 +494,5 @@
 | ------- |
 | [0197-rising-temperature](https://github.com/Indhuthamarai/problem_solving/tree/master/0197-rising-temperature) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Indhuthamarai/problem_solving/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1801-average-time-of-process-per-machine](https://github.com/Indhuthamarai/problem_solving/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
