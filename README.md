@@ -497,4 +497,5 @@
 | [0577-employee-bonus](https://github.com/Indhuthamarai/problem_solving/tree/master/0577-employee-bonus) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Indhuthamarai/problem_solving/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Indhuthamarai/problem_solving/tree/master/1801-average-time-of-process-per-machine) |
+| [2087-confirmation-rate](https://github.com/Indhuthamarai/problem_solving/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
