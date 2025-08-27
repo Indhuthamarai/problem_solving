@@ -493,6 +493,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Indhuthamarai/problem_solving/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Indhuthamarai/problem_solving/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Indhuthamarai/problem_solving/tree/master/0577-employee-bonus) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Indhuthamarai/problem_solving/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Indhuthamarai/problem_solving/tree/master/1801-average-time-of-process-per-machine) |
